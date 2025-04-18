@@ -2,7 +2,7 @@
 **karobia-anastasia/karobia-anastasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# 👋 Hi, I'm Karobia Anastasia
+# 👋 Hi, I'm Karobia 
 
 💻 **Software Developer** | Problem Solver | Lifelong Learner
 
