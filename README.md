@@ -10,7 +10,7 @@ I’m a passionate software developer with a strong foundation in **modern web t
 
 ---
 
-### 🔧 Tech I Work With
+### Tech I Work With
 
 - **Languages**: Python | JavaScript | TypeScript  
 - **Frontend**: React.js  | Next.js | Angular | Vue | HTML5 | CSS3  
