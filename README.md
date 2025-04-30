@@ -12,19 +12,19 @@ I’m a passionate software developer with a strong foundation in **modern web t
 
 ### 🔧 Tech I Work With
 
-- **Languages**: Python 🐍 | JavaScript | TypeScript  
-- **Frontend**: React.js ⚛️ | Next.js | Angular | Vue | HTML5 | CSS3  
+- **Languages**: Python | JavaScript | TypeScript  
+- **Frontend**: React.js  | Next.js | Angular | Vue | HTML5 | CSS3  
 - **Backend**: Django  
 - **Tools**: Git | GitHub | GitLab | VS Code | Android Studio | IntelliJ IDEA
 
 ---
 
-### 🌱 Currently Exploring
+###  Currently Exploring
 
 - ✨ Advanced React Patterns
-- 🧩 TypeScript Generics & Utility Types
-- 🧪 Building REST APIs with Django
-- 🎨 UI/UX best practices
+- TypeScript Generics & Utility Types
+- Building REST APIs with Django
+- UI/UX best practices
 
 ---
 
