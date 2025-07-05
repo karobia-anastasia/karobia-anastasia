@@ -1,8 +1,8 @@
 <!--
-**karobia-anastasia/karobia-anastasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**karobia-anastasia/karobia-anastasia** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# 👋 Hi, I'm Karobia 
+#  Hi, I'm Karobia 
 
 💻 **Software Developer** | Problem Solver | Lifelong Learner
 
@@ -21,21 +21,21 @@ I’m a passionate software developer with a strong foundation in **modern web t
 
 ###  Currently Exploring
 
-- ✨ Advanced React Patterns
+- Advanced React Patterns
 - TypeScript Generics & Utility Types
 - Building REST APIs with Django
 - UI/UX best practices
 
 ---
 
-### 🚀 Projects I'm Proud Of
+###  Projects I'm Proud Of
 
 - **School DataCapture** – Clean and structured UI for streamlined educational data management
 - **DawahPlay** – A meaningful platform supporting Dawah Nigeria’s outreach through tech
 
 ---
 
-### 💬 Ask Me About
+###  Ask Me About
 
 - Full-Stack Web Development
 - Modern JavaScript Frameworks
@@ -44,17 +44,17 @@ I’m a passionate software developer with a strong foundation in **modern web t
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
-- 🌐 [Portfolio Website](https://anakarobiaportfolio.netlify.app/)
-- 💼 [LinkedIn](https://linkedin.com/in/karobia-anastasia)
-- 📧 [Email](mailto:karobiaannah@gmail.com)
+- [Portfolio Website](https://anakarobiaportfolio.netlify.app/)
+- [LinkedIn](https://www.linkedin.com/in/anastasiakarobia/)
+- [Email](mailto:karobiaannah@gmail.com)
 
 ---
 
-### ⚡ Fun Fact
+###  Fun Fact
 
-I love working on UI polish ✨ and making things look & feel just right. I also drink way too much coffee ☕ when deep in code!
+I love working on UI polish and making things look & feel just right. I also drink way too much coffee when deep in code!
 
 ---
 
