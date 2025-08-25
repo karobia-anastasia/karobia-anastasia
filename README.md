@@ -6,7 +6,7 @@
 
 **Software Engineer** | Problem Solver | Lifelong Learner
 
-I’m a passionate software developer with a strong foundation in **modern web technologies** and a deep commitment to **continuous learning**. I thrive on solving complex problems and crafting seamless, user-focused digital experiences.
+I’m a passionate software engineer with a strong foundation in **modern web technologies** and a deep commitment to **continuous learning**. I thrive on solving complex problems and crafting seamless, user-focused digital experiences.
 
 ---
 
