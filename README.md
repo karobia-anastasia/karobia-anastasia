@@ -28,7 +28,7 @@ With deep experience implementing and customizing ERP platforms like Odoo and Bu
 *   **School DataCapture** 
     *   Designed and engineered a clean, structured UI and robust backend for streamlined educational data management.
     *   Built scalable API endpoints to handle high-volume student records and academic performance metrics securely.
-    *   *Tech stack:* Angular, Java Spring Boot, REST APIs.
+    *   *Tech stack:* Angular, Django, REST APIs.
 
 *   **E-Commerce Platform** 
     *   Built a responsive, high-performance e-commerce web application featuring dynamic product filtering, secure checkout workflows, and state management.
