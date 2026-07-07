@@ -2,7 +2,7 @@
 
 ### Software Engineer | Full-Stack Developer & ERP Specialist
 
-I am a results-driven Software Engineer with a robust foundation in modern web technologies and enterprise system customization. I specialize in crafting seamless, user-focused digital experiences and scaling backend architectures using Python, Django, and modern JavaScript frameworks. 
+I am a results-driven Software Engineer with a robust foundation in modern web technologies and enterprise system customization. I specialize in crafting seamless, user-focused digital experiences and scaling backend architectures using Python, Django, Node js, and modern JavaScript frameworks. 
 
 With deep experience implementing and customizing ERP platforms like Odoo and Business Central, I build solutions that optimize business workflows and drive operational efficiency.
 
