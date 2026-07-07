@@ -1,68 +1,37 @@
-<!--
-**karobia-anastasia/karobia-anastasia** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
--->
+# Hi, I'm Karobia 👋
 
-#  Hi, I'm Karobia 
+### Software Engineer | Full-Stack Developer & ERP Specialist
 
-**Software Engineer** | Problem Solver | Lifelong Learner
+I am a results-driven Software Engineer with a robust foundation in modern web technologies and enterprise system customization. I specialize in crafting seamless, user-focused digital experiences and scaling backend architectures using Python, Django, and modern JavaScript frameworks. 
 
-I’m a passionate software engineer with a strong foundation in **modern web technologies** and a deep commitment to **continuous learning**. I thrive on solving complex problems and crafting seamless, user-focused digital experiences.
+With deep experience implementing and customizing ERP platforms like Odoo and Business Central, I build solutions that optimize business workflows and drive operational efficiency.
 
 ---
 
-### Tech I Work With
+### Tech Stack & Tooling
 
-- **Languages**: Python | JavaScript | TypeScript | Java 
-- **Frontend**: React.js  | Next.js | Angular | Vue | HTML5 | CSS3  
-- **Backend**: Django  | Spring Boot | Node Js
-- **ERP**: Business Central  | Odoo
-- **Tools**: Git | GitHub | GitLab | VS Code | Android Studio | IntelliJ IDEA
-
----
-
-###  Currently Exploring
-
-- Advanced React Patterns
-- TypeScript Generics & Utility Types
-- Building REST APIs with Django
-- UI/UX best practices
+*   **Languages:** Python | JavaScript | TypeScript | Java | SQL
+*   **Frontend:** React.js | Next.js | Angular | Vue.js | HTML5 | CSS3
+*   **Backend:** Django | Node.js | Spring Boot | RESTful APIs
+*   **ERP Systems:** Microsoft Dynamics 365 Business Central | Odoo | HansaWorld
+*   **Tools & Workflow:** Git | GitHub | GitLab | VS Code | IntelliJ IDEA | Docker
 
 ---
 
-###  Projects I'm Proud Of
+###  Featured Projects
 
-- **School DataCapture** – Clean and structured UI for streamlined educational data management
-- **DawahPlay** – A meaningful platform supporting Dawah Nigeria’s outreach through tech
-
----
-
-###  Ask Me About
-
-- Full-Stack Web Development
-- Modern JavaScript Frameworks
-- Working with APIs
-- Clean Code & Scalability
+*   **School DataCapture** 
+    *   Designed and engineered a clean, structured UI and robust backend for streamlined educational data management.
+    *   *Tech stack:* React.js, Django, REST APIs.
+*   **DawahPlay** 
+    *   Developed a high-performance platform supporting digital outreach and media streaming for Dawah Nigeria.
+    *   *Tech stack:* Next.js, Tailwind CSS, Node.js.
 
 ---
 
-### Connect With Me
+###  Let's Connect
+I am open to full-time opportunities, contract roles, and technical collaborations. 
 
-- [Portfolio Website](https://anakarobiaportfolio.netlify.app/)
-- [LinkedIn](https://www.linkedin.com/in/anastasiakarobia/)
-- [Email](mailto:karobiaannah@gmail.com)
-
----
-
-###  Fun Fact
-
-I love working on UI polish and making things look & feel just right. I also drink way too much coffee when deep in code!
-
----
-
-> _"Creating is my craft. Learning is my fuel. Let’s build something awesome."_
-
-
-![Anastasia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karobia-anastasia&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karobia-anastasia&layout=compact&theme=tokyonight)
-
+*   **Ask Me About:** Full-Stack Architecture, ERP Integrations, API Design, and Clean Code Practices.
+*   **LinkedIn:** [https://www.linkedin.com/in/anastasiakarobia/]
+*   **Email:** [karobiaanastasia@gmail.com]
