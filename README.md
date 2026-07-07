@@ -25,10 +25,10 @@ With deep experience implementing and customizing ERP platforms like Odoo and Bu
     *   Integrated **Meta (WhatsApp Cloud API)** to send automated, real-time WhatsApp alerts to kitchen managers for critical updates on low stock and expiring ingredients.
     *   *Tech stack:* Django (Python), React.js, PostgreSQL, Meta Cloud API, REST APIs.
 
-*   **School DataCapture** 
-    *   Designed and engineered a clean, structured UI and robust backend for streamlined educational data management.
-    *   Built scalable API endpoints to handle high-volume student records and academic performance metrics securely.
-    *   *Tech stack:* Angular, Django, REST APIs.
+*   **OmniBridge (ERP Data Integration Middleware)**
+    *   Engineered a high-throughput integration engine that orchestrates automated, real-time data synchronization between customer-facing E-Commerce storefronts and backend ERP environments (**Odoo** and **Dynamics 365 Business Central**).
+    *   Built asynchronous multi-threaded workers to ingest checkout transactions, process currency/tax mapping, and trigger automated stock reconciliations directly across systems upon successful customer payment.
+    *   *Tech stack:* Java Spring Boot, Angular, PostgreSQL, Odoo RPC, Dynamics OData APIs, Webhooks, Docker.
 
 *   **E-Commerce Platform** 
     *   Built a responsive, high-performance e-commerce web application featuring dynamic product filtering, secure checkout workflows, and state management.
@@ -44,4 +44,4 @@ I am open to full-time opportunities, contract roles, and technical collaboratio
 
 *   **Ask Me About:** Full-Stack Architecture, ERP Integrations, API Design, and Clean Code Practices.
 *   **LinkedIn:** [linkedin.com/in/karobia-anastasia](https://linkedin.com/in/karobia-anastasia)
-*   **Email:** [karobiaanastasia@gmail.con]
+*   **Email:** karobiaanastasia@gmail.com
