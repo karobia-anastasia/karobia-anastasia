@@ -12,9 +12,10 @@ I’m a passionate software engineer with a strong foundation in **modern web te
 
 ### Tech I Work With
 
-- **Languages**: Python | JavaScript | TypeScript  
+- **Languages**: Python | JavaScript | TypeScript | Java 
 - **Frontend**: React.js  | Next.js | Angular | Vue | HTML5 | CSS3  
-- **Backend**: Django  
+- **Backend**: Django  | Spring Boot | Node Js
+- **ERP**: Business Central  | Odoo
 - **Tools**: Git | GitHub | GitLab | VS Code | Android Studio | IntelliJ IDEA
 
 ---
