@@ -19,26 +19,28 @@ With deep experience implementing and customizing ERP platforms like Odoo and Bu
 ---
 
 ### Featured Projects
-
-*   **KitchenFlow (Commercial Kitchen Inventory System)**
-    *   Developed an automated inventory tracking application for commercial kitchens to monitor ingredient stock levels, track perishable shelf-life, and manage supplier orders.
-    *   Integrated **Meta (WhatsApp Cloud API)** to send automated, real-time WhatsApp alerts to kitchen managers for critical updates on low stock and expiring ingredients.
-    *   *Tech stack:* Django (Python), React.js, PostgreSQL, Meta Cloud API, REST APIs.
-
 *   **OmniBridge (E-Commerce to ERP Connector)**
     *   Built a system that connects online e-commerce stores directly to business back-offices like **Odoo** and **Microsoft Dynamics 365 Business Central**.
     *   Automatically transfers sales data to the ERP and updates product stock levels on the website the moment a customer pays.
     *   *Tech stack:* Python-Django, Angular, PostgreSQL, Odoo RPC, Dynamics OData APIs, Webhooks, Docker.
-
+*   **LogiTrack (Real-Time Operations Dashboard)**
+    *   Developed a live tracking dashboard for logistics operations to monitor dispatch statuses and delivery performance parameters.
+    *   Built real-time data streaming pipelines using WebSockets to reflect transit updates instantly across user interfaces without page reloads.
+    *   *Tech stack:* Vue.js, Java Spring Boot, PostgreSQL, WebSockets.
+*   **ShareSphere (SaaS Resource Sharing Platform)**
+    *   Developed a collaborative platform for sharing technical resources, featuring a freemium model with role-based document access controls.
+    *   Integrated **M-Pesa API** to automate premium tier upgrades, using secure backend route guards to restrict premium content downloads to paid subscribers.
+    *   *Tech stack:* Vue.js, Node.js, Express, MongoDB, M-Pesa Daraja API, AWS S3.
+*   **KitchenFlow (Commercial Kitchen Inventory System)**
+    *   Developed an automated inventory tracking application for commercial kitchens to monitor ingredient stock levels, track perishable shelf-life, and manage supplier orders.
+    *   Integrated **Meta (WhatsApp Cloud API)** to send automated, real-time WhatsApp alerts to kitchen managers for critical updates on low stock and expiring ingredients.
+    *   *Tech stack:* Django (Python), React.js, PostgreSQL, Meta Cloud API, REST APIs.
 *   **E-Commerce Platform** 
     *   Built a responsive, high-performance e-commerce web application featuring dynamic product filtering, secure checkout workflows, and state management.
     *   Integrated **Safaricom Daraja API** to process secure **M-Pesa STK Push payments** with asynchronous webhook handlers listening for callback confirmations.
     *   Optimized page load speeds and SEO performance using server-side rendering (SSR) and asset optimization.
     *   *Tech stack:* Next.js, Tailwind CSS, Node.js, M-Pesa Daraja API, Webhooks.
-*   **LogiTrack (Real-Time Operations Dashboard)**
-    *   Developed a live tracking dashboard for logistics operations to monitor dispatch statuses and delivery performance parameters.
-    *   Built real-time data streaming pipelines using WebSockets to reflect transit updates instantly across user interfaces without page reloads.
-    *   *Tech stack:* Vue.js, Java Spring Boot, PostgreSQL, WebSockets.
+
 ---
 
 ### Let's Connect
@@ -48,3 +50,4 @@ I am open to full-time opportunities, contract roles, and technical collaboratio
 *   **Ask Me About:** Full-Stack Architecture, ERP Integrations, API Design, and Clean Code Practices.
 *   **LinkedIn:** [linkedin.com/in/karobia-anastasia](https://linkedin.com/in/karobia-anastasia)
 *   **Email:** karobiaanastasia@gmail.com
+*   **Paypal:**
