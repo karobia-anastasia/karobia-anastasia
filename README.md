@@ -35,7 +35,10 @@ With deep experience implementing and customizing ERP platforms like Odoo and Bu
     *   Integrated **Safaricom Daraja API** to process secure **M-Pesa STK Push payments** with asynchronous webhook handlers listening for callback confirmations.
     *   Optimized page load speeds and SEO performance using server-side rendering (SSR) and asset optimization.
     *   *Tech stack:* Next.js, Tailwind CSS, Node.js, M-Pesa Daraja API, Webhooks.
-
+*   **LogiTrack (Real-Time Operations Dashboard)**
+    *   Developed a live tracking dashboard for logistics operations to monitor dispatch statuses and delivery performance parameters.
+    *   Built real-time data streaming pipelines using WebSockets to reflect transit updates instantly across user interfaces without page reloads.
+    *   *Tech stack:* Vue.js, Java Spring Boot, PostgreSQL, WebSockets.
 ---
 
 ### Let's Connect
